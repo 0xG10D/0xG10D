@@ -36,7 +36,7 @@ An experimental security-focused AI project created for learning and exploration
 
 I publish CTF walkthroughs, security notes, project updates, and technical writeups on my website:
 
-### [0xg10d.github.io](https://0xg10d.github.io/)
+### [[0xg10d.github.io](https://0xg10d.github.io/)](https://0xg10d.my/)
 
 > Practical notes from labs, CTFs, cybersecurity projects, and lessons learned while breaking and defending systems.
 
